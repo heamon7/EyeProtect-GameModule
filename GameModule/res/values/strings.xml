@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">myapp</string>
+    <string name="restart_button">Restart</string>
+    <string name="undo_button">UNDO</string>
+    <string name="tvScore">score</string>
+    <string name="tvSteps">steps</string>
+
+</resources>
